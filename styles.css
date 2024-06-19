@@ -1,4 +1,11 @@
-/* Basic reset for styling */
+/* Body styling */
+body {
+    background-color: #6495ED; /* Cornflower blue background */
+    margin: 20px; /* Adds margin around the entire content of the body */
+    font-family: Arial, sans-serif; /* Sets a clean, modern font for the page */
+}
+
+/* Navigation menu styling */
 ul {
     list-style-type: none;
     margin: 0;
@@ -8,7 +15,7 @@ ul {
 }
 
 li {
-    float: left; /* This will arrange your items horizontally */
+    float: left;
 }
 
 li a {
@@ -21,4 +28,22 @@ li a {
 
 li a:hover {
     background-color: #111; /* Slightly lighter grey on hover */
+}
+
+/* Header and headings styling */
+header, h1, h2, h3 {
+    text-align: center; /* Centers all headings within these elements */
+}
+
+/* Image styling */
+img {
+    display: block;
+    margin: 0 auto; /* Centers the image horizontally */
+    width: 50%; /* Resizes the image to be 50% of its container's width */
+    height: auto; /* Maintains the aspect ratio of the image */
+}
+
+/* Additional content styling */
+p, a {
+    margin: 10px 20px; /* Adds specific margin to paragraphs and links */
 }
