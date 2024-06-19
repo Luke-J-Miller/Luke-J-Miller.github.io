@@ -1,0 +1,24 @@
+/* Basic reset for styling */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333; /* Dark grey background */
+}
+
+li {
+    float: left; /* This will arrange your items horizontally */
+}
+
+li a {
+    display: block;
+    color: white; /* Text color */
+    text-align: center;
+    padding: 14px 16px; /* Spacing around text */
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111; /* Slightly lighter grey on hover */
+}
