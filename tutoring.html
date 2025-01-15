@@ -1,0 +1,20 @@
+document.addEventListener('DOMContentLoaded', () => {
+    fetch('navbar.html')
+        .then(response => response.text())
+        .then(data => {
+            document.body.insertAdjacentHTML('afterbegin', data);
+        });
+});
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tutoring - Luke Miller</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Individual Tutoring</h1>
+    <p>Description of various other interests and side projects.</p>
+</body>
+</html>
