@@ -58,7 +58,7 @@ img {
 
 /* Add small left and right margins for text */
 main p, main ul, main ol {
-    margin: 0 10rem;
+    margin: 0 1rem;
 }
 
 /* Responsive Design */
