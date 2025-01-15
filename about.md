@@ -21,30 +21,27 @@
     <main>
         <section>
             <h1>About Me</h1>
-            <p>Welcome! My name is Luke J. Miller, and I am a passionate PhD student specializing in Computer Science at the University of Missouri-Kansas City. With a distinguished 15-year career in strategic planning, team leadership, and adult instruction, I have dedicated my life to advancing the fields of Artificial Intelligence and Quantum Computing through innovative research and education.</p>
+            <p>Hello! My name is Luke J. Miller, and I specialize in providing personalized tutoring and small group classes in test preparation, college readiness, and computer science topics. With a 15-year background in instruction and leadership, I am dedicated to helping students achieve their academic and career goals through engaging and practical learning experiences.</p>
 
-            <h2>Professional Background</h2>
-            <p>I bring a strong academic foundation, having earned my Master of Science in Computer Science with a 3.96 GPA and completing coursework in areas such as Graph Neural Networks, Deep Learning, and Advanced Graph Theory. My professional journey has included impactful roles in academia, the Air Force, and industry, where I developed scalable machine learning solutions, taught thousands of students, and managed complex projects with excellence.</p>
-
-            <h2>Family and Residence</h2>
-            <p>I reside in Edgerton, Missouri, with my wife Sara Miller and our two children, Dylan and Benjamin. When I’m not immersed in research or teaching, I enjoy spending time with my family and exploring ways to make meaningful contributions to our community.</p>
-
-            <h2>Research Interests</h2>
-            <p>My current research focuses on enhancing the explainability of Graph Neural Networks and exploring the intersection of Quantum Computing and Artificial Intelligence. I aim to develop cutting-edge methods that address real-world challenges in scalability, efficiency, and performance.</p>
-
-            <h2>Honors and Awards</h2>
+            <h2>What I Offer</h2>
+            <p>I provide one-on-one tutoring tailored to your individual needs, as well as small group classes designed to build foundational skills and confidence. My offerings include:</p>
             <ul>
-                <li>Instructor of the Year, Keesler AFB, 2016</li>
-                <li>Magna Cum Laude, Bachelor of Science, Business Administration, Trident University, 2015</li>
-                <li>Air Traffic Control Watch Supervisor of the Year, 2012</li>
-                <li>Levitow Leadership Award, 2011</li>
+                <li><strong>Test Preparation:</strong> SAT, ACT, and other standardized tests</li>
+                <li><strong>College Prep:</strong> Essay writing, application guidance, and study skills</li>
+                <li><strong>Computer Science:</strong> Basic programming, video game design, and introductory coding courses</li>
             </ul>
 
-            <h2>Publications</h2>
-            <p>One of my most notable publications is titled <em>"Detecting Pilot Task Saturation"</em>, presented at the AIAA SCITECH 2024 Forum. This work explores physiological markers of task saturation and the use of computer vision tools to enhance pilot safety.</p>
+            <h2>Why Choose Me?</h2>
+            <p>As a passionate educator and PhD student specializing in Computer Science, I combine deep subject matter expertise with proven instructional techniques to ensure every session is productive and enjoyable. Whether you're preparing for college or exploring the exciting world of programming, I am here to guide you every step of the way.</p>
+
+            <h2>Family and Residence</h2>
+            <p>I live in Edgerton, Missouri, with my wife Sara Miller and our two children, Dylan and Benjamin. My family inspires me to create educational experiences that are both meaningful and practical, ensuring students leave with skills they can use immediately.</p>
+
+            <h2>My Approach</h2>
+            <p>I believe learning should be hands-on and goal-oriented. My classes and tutoring sessions are designed to equip students with the tools they need to succeed academically and professionally. I focus on building confidence, fostering curiosity, and making complex topics accessible to everyone.</p>
 
             <h2>Contact</h2>
-            <p>Feel free to reach out to me at <a href="mailto:ljmbm5@umsystem.edu">ljmbm5@umsystem.edu</a> or via phone at (228) 224-8906.</p>
+            <p>If you’re ready to take the next step in your learning journey, feel free to reach out! You can contact me at <a href="mailto:ljmbm5@umsystem.edu">ljmbm5@umsystem.edu</a> or call me at (228) 224-8906. Let’s achieve your goals together!</p>
         </section>
     </main>
 </body>
