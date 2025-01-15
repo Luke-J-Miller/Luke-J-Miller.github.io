@@ -39,7 +39,7 @@ header, h1, h2, h3 {
 img {
     display: block;
     margin: 0 auto; /* Centers the image horizontally */
-    width: 50%; /* Resizes the image to be 50% of its container's width */
+    width: 20%; /* Resizes the image to be 50% of its container's width */
     height: auto; /* Maintains the aspect ratio of the image */
 }
 
