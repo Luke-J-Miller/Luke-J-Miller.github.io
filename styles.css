@@ -1,49 +1,59 @@
-/* Body styling */
-body {
-    background-color: #3247AA; /* Cornflower blue background */
-    margin: 20px; /* Adds margin around the entire content of the body */
-    font-family: Arial, sans-serif; /* Sets a clean, modern font for the page */
-}
-
-/* Navigation menu styling */
-ul {
-    list-style-type: none;
+/* General reset for consistent styling */
+* {
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    background-color: #5F9EA0; /* Dark grey background */
+    box-sizing: border-box;
 }
 
-li {
-    float: left;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
 }
 
-li a {
-    display: block;
-    color: white; /* Text color */
-    text-align: center;
-    padding: 14px 16px; /* Spacing around text */
+/* Navigation bar styling */
+nav {
+    background-color: #2c3e50;
+    padding: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
     text-decoration: none;
+    color: #ecf0f1;
+    font-size: 1.1rem;
+    font-weight: bold;
+    transition: color 0.3s ease, border-bottom 0.3s ease;
 }
 
-li a:hover {
-    background-color: #111; /* Slightly lighter grey on hover */
+nav ul li a:hover {
+    color: #1abc9c;
+    border-bottom: 2px solid #1abc9c;
 }
 
-/* Header and headings styling */
-header, h1, h2, h3 {
-    text-align: center; /* Centers all headings within these elements */
-}
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
 
-/* Image styling */
-img {
-    display: block;
-    margin: 0 auto; /* Centers the image horizontally */
-    width: 20%; /* Resizes the image to be 50% of its container's width */
-    height: auto; /* Maintains the aspect ratio of the image */
-}
-
-/* Additional content styling */
-p, a {
-    margin: 10px 20px; /* Adds specific margin to paragraphs and links */
+    nav ul li {
+        margin: 0.5rem 0;
+    }
 }
